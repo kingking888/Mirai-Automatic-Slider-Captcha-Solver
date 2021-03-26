@@ -1,0 +1,10 @@
+
+.idea
+.gradle
+build/
+
+*.logs
+*.log
+*.pem
+*.crt
+*.p12
